@@ -2,12 +2,12 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h2>aws<h2>
-	<h1>devops</h1>
+	<h1>Hello jenkins</h1>
 </head>
 <body>
 	<h1>Hello World!</h1>
 	<p>
+		<h2>welcome<h2>
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
